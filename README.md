@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Kubernate and Cloud Native Tools**
 
-- 💻 My skills: **Python, HTML, CSS, JavaScript, Django, Linux, AWS, Jenkins, Docker, SQL, GitHub, Shell Scripting, Maven**
+- 💻 My skills: **Python, HTML, CSS, JavaScript, Django, Linux, AWS, Jenkins, Docker, Kubernates, Teraform, GitHub, Shell Scripting, Maven, SQL, HTML, CSS, JavaScript, Django, **
 
 - 📫 How to reach me **ashutoshrana2580@gmail.com**
 
