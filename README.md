@@ -12,7 +12,7 @@
 <!-- Right side animation -->
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ashutosh" width="300"/></p>
 
-- 🌱 I’m currently learning **Docker and Cloud Native Tools**
+- 🌱 I’m currently learning **Kubernate and Cloud Native Tools**
 
 - 💻 My skills: **Python, HTML, CSS, JavaScript, Django, Linux, AWS, Jenkins, Docker, SQL, GitHub, Shell Scripting, Maven**
 
